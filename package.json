@@ -1,0 +1,22 @@
+{
+  "name": "github-downloader",
+  "version": "1.0.0",
+  "description": "download github repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slugo/github-downloader.git"
+  },
+  "author": "Sebastian Lugo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slugo/github-downloader/issues"
+  },
+  "homepage": "https://github.com/slugo/github-downloader#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
